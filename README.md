@@ -24,17 +24,17 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
-### 📊 GitHub Stats
+ ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alviyak213-collab&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alviyak213-collab&layout=compact&theme=dark" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=alviyak213-collab&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=alviyak213-collab&color=blue&style=flat-square" alt="Profile Views" />
 </p>
